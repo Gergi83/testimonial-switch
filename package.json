@@ -1,0 +1,11 @@
+{
+  "name": "testimonial-switch",
+  "version": "1.0.0",
+  "description": "simple box switch widget",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgi Yordanov",
+  "license": "ISC"
+}
